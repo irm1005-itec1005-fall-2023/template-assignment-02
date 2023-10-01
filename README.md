@@ -143,16 +143,19 @@ There are a few ways that you can submit your work to your Assignment 01 reposit
   <dd>You can build anything you want that meets the content requirements. If you want to build a portfolio site - go for it! If you want to build the home page of an e-commerce store - that's cool too! If you want to build a site that emphasis on a social good or social enterprise or cause, that's awesome too.</dd>
   
   <dt>Does the web page have to work in both mobile and desktop</dt>
-  <dd>No! We haven't covered responsive design yet. You are only being assessed on the quality of your HTML code, not how good or bad your web page looks on a browser.</dd>
+  <dd>No! You only need to make your web page work in desktop mode. Don't worry about mobile mode for this Assignment.</dd>
  
   <dt>Can I use lorem ipsum text in my webpage</dt>
   <dd>You may use lorem ipsum if you need to but it is recommended that you try to use relevant and intersting content. Though, if you don't have relevant content you are absolutely permitted to use <a href="https://www.lipsum.com">lorem ipsum</a>, <a href="https://baconipsum.com">bacon ipsum</a>, or <a href="https://veganipsum.me">vegan ipsum</a> in your web page. Keep in mind that this should not be used in cases where the meaning of the text is important, for example the call to action buttons in the hero or elements in the form.</dd>
 
   <dt>Do I need to include sketches, concepts, or initial content drafts?</dt>
-  <dd>No. You are only being assessed on the quality of your HTML code, and what you submit to your GitHub repository. </dd>
+  <dd>No. You are only being assessed on the quality of your `HTML` and `CSS` code, and what you submit to your GitHub repository. </dd>
  
   <dt>Can I use trademarked or copywritten material on my page?</dt>
   <dd>Yes! As this is for educational purposes, all of the source is open, and no one is trying to sell their design or code you can absolutely use trademarked or copywritten material. Just add a comment in your code where you got the material.</dd>
+
+  <dt>How do I cite my sources</dt>
+  <dd>Just add a <code>HTML</code> comments in your <code>index.html</code> file and describe where you got the information from. If you use GitHub Copilot identify which lines in your files were generated and for ChatGPT make sure you include the prompt that you used.</dd> 
  
 </dl>
 
