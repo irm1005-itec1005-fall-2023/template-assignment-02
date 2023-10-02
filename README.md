@@ -167,7 +167,7 @@ There are a few ways that you can submit your work to your Assignment repository
   <dd>You may use lorem ipsum if you need to but it is recommended that you try to use relevant and intersting content. Though, if you don't have relevant content you are absolutely permitted to use <a href="https://www.lipsum.com">lorem ipsum</a>, <a href="https://baconipsum.com">bacon ipsum</a>, or <a href="https://veganipsum.me">vegan ipsum</a> in your web page. Keep in mind that this should not be used in cases where the meaning of the text is important, for example the call to action buttons in the hero or elements in the form.</dd>
 
   <dt>Do I need to include sketches, concepts, or initial content drafts?</dt>
-  <dd>No. You are only being assessed on the quality of your `HTML` and `CSS` code, and what you submit to your GitHub repository. </dd>
+  <dd>No. You are only being assessed on the quality of your <code>HTML</code> and <code>CSS</code> code, and what you submit to your GitHub repository. </dd>
  
   <dt>Can I use trademarked or copywritten material on my page?</dt>
   <dd>Yes! As this is for educational purposes, all of the source is open, and no one is trying to sell their design or code you can absolutely use trademarked or copywritten material. Just add a comment in your code where you got the material.</dd>
