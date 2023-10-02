@@ -12,7 +12,7 @@
 
 ## TLDR
 
-1. Build and style one (1) web page using `HTML` and `CSS` that works in desktop mode and satisfies all content and submission requirements for this assignment.
+1. Build and style one (1) awesome looking web page using `HTML` and `CSS` that works in desktop mode and satisfies all content and submission requirements for this assignment.
 2. Commit your code to your assignment repository in GitHub.
 3. Turn on GitHub Pages in your repository to host your web page online.
 
