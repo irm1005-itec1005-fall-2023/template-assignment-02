@@ -96,6 +96,8 @@ The design inspiration section below has a couple of visual examples of these co
 
 ## Design inspiration 
 
+Here are two wireframes that you can draw inspiration from when coming up with your own designs. 
+
 ![Screenshot](./images/screenshot-01.png)
 
 ![Screenshot](./images/screenshot-02.png)
