@@ -84,7 +84,9 @@ The design inspiration section below has a couple of virual examples of these co
 
 ## Design inspiration 
 
-TODO Add images here 
+![Screenshot](./images/screenshot-01.png)
+
+![Screenshot](./images/screenshot-02.png)
 
 ## Assignment acceptance criteria
 
