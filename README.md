@@ -181,7 +181,6 @@ There are a few ways that you can submit your work to your Assignment repository
 
 - [Intro to HTML - Prof3ssorSt3v3](https://www.youtube.com/watch?v=KUmuiqV1xME&list=PLyuRouwmQCjncCz8JChyPNRBvm2ONGYa2)
 - [HTML Tutorial - MDN](https://developer.mozilla.org/en-US/docs/Learn/HTML)
-- [HTML Forms - MDN](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/form)
 
 ### Images and Icons
 
