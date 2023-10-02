@@ -1,4 +1,4 @@
-# Assignment 01
+# Assignment 02
 
 **Course Title**: Web Development
 
@@ -6,9 +6,9 @@
 
 **Semester**: Fall 2023
 
-**Due Date**: 11:59 PM on October 1, 2023
+**Due Date**: 11:59 PM on October 19, 2023
 
-**Assessment**: This assignment is worth 10% of your final grade and marked out of 100.
+**Assessment**: This assignment is worth 15% of your final grade and marked out of 100.
 
 ## TLDR
 
@@ -36,7 +36,7 @@ Create and host a web page that meets the following requirements:
 
 ## Content requirements
 
-For the actual content of your web page, you can select anything you want, including what you worked on for your Assignment 01, as long as it meets the structural requirements defined further below. Here are some examples of the content that you can write and what you can build:
+For the actual content for your web page, you can select anything you want, **including what you worked on for your Assignment 01**, as long as it meets the structural requirements defined further below. Here are some examples of the content that you can write and what you can build:
 
 - Personal blog page / article
 - Short story
@@ -51,9 +51,9 @@ For the actual content of your web page, you can select anything you want, inclu
 
 The web page that you are building must have the following **minimum requirements**. You may build out your web page with even more content than this if you would like, though no additional marks will be awarded.
 
-The only difference from Assignment 01 is the form is replaced with a Call to Action (CTA) section. 
+The only difference from Assignment 01 is the form is replaced with a Call to Action (CTA) section.
 
-The design inspiration section below has virual examples of all of these content areas that you can use in your own designs.
+The design inspiration section below has a couple of virual examples of these content areas that you can use in your own designs.
 
 - Header Section
   - Logo
@@ -66,7 +66,6 @@ The design inspiration section below has virual examples of all of these content
   - Three (3) additional content sections (for example)
     - Customer testimonials
     - Product descriptions and screenshots
-    - Call to action section
     - Important data
     - Frequently asked questions
     - Pricing information
@@ -80,7 +79,7 @@ The design inspiration section below has virual examples of all of these content
   - Site name
   - Navigation links
     - Minimum of three (3) navigation menu items
-  - Other optional footer elements such as address and contact information,
+  - Other optional footer elements such as address and contact information
   - Year and Copyright symbol
 
 ## Design inspiration 
@@ -96,7 +95,7 @@ TODO Add images here
 
 ## Grading rubric
 
-The creation and posting of this web page is worth 10% of your final grade and marked out of 100.
+The creation and posting of this web page is worth 15% of your final grade and marked out of 100.
 
 | Criteria                | Total&nbsp;Marks | How we define excellence                                                                                                                                                                                                                                                                                                              |
 | ----------------------- | ---------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -111,7 +110,7 @@ The creation and posting of this web page is worth 10% of your final grade and m
 
 ## Late submissions
 
-- If you are ill or any other issues arise that are beyond your control, please email [neil.mispelaar@carleton.ca](mailto:neil.mispelaar@carleton.ca) 24 hours before the specified due date to request a one week extention.
+- If you are ill or any other issues arise that are beyond your control, please email [neil.mispelaar@carleton.ca](mailto:neil.mispelaar@carleton.ca) before the specified due date to request a one week extention.
 - If you fail to obtain an extentaion or fail to inform the instructor of any extenuating circumstances that cause a delay in your submission by the posted due date, you will receive a mark of **Zero (0)** for the assignment.
 
 ## Checklist
@@ -120,16 +119,16 @@ To help with your submission, make sure that you have reviewed the following ite
 
 - [x] Your code is committed and pushed to the GitHub repo that GitHub Classrooms created for you
 - [x] The web page fulfills the minimum content requirements
-- [x] [GitHub Pages](https://docs.github.com/en/pages) is activated for your repo and your web page is live and accessible. If you are unsure, send your link to a team member and see if they can access your site from their machine.
-- [x] The web page passes [W3C validation](https://validator.w3.org/#validate_by_uri)
+- [x] [GitHub Pages](https://github.com/orgs/irm1005-itec1005-fall-2023/discussions/4) is activated for your repo and your web page is live and accessible. If you are unsure, send your link to a team member and see if they can access your site from their machine.
+- [x] The web page passes [W3C validation](https://validator.w3.org/#validate_by_uri) for both `HTML` and `CSS`
 
 ## Submitting your work
 
-Your work must be submitted to your Assignment 01 GitHub repository, which is automatically generated when you accept the assignment through GitHub Classrooms.
+Your work must be submitted to your Assignment GitHub repository, which is automatically generated when you accept the assignment through GitHub Classrooms.
 
 When you complete your work, commit and push your code to your repository. There is nothing else that you need to do to mark your assignment as completed.
 
-There are a few ways that you can submit your work to your Assignment 01 repository:
+There are a few ways that you can submit your work to your Assignment repository:
 
 - Clone your GitHub repository, work off of your local machine, and commit your changes through VSCode (recommended)
 - Use the GitHub code editor web interface to paste your completed code right into GitHub
