@@ -143,6 +143,9 @@ There are a few ways that you can submit your work to your Assignment repository
   
   <dt>Does the web page have to work in both mobile and desktop</dt>
   <dd>No! You only need to make your web page work in desktop mode. Don't worry about mobile mode for this Assignment.</dd>
+
+  <dt>Can I use my code from Assignment 01</dt>
+  <dd>Yes. Absolutely. You are permitted to use the code you wrote for your Assignment 01 as the baseline <code>HTML</code> for this assignment.</dd>
  
   <dt>Can I use lorem ipsum text in my webpage</dt>
   <dd>You may use lorem ipsum if you need to but it is recommended that you try to use relevant and intersting content. Though, if you don't have relevant content you are absolutely permitted to use <a href="https://www.lipsum.com">lorem ipsum</a>, <a href="https://baconipsum.com">bacon ipsum</a>, or <a href="https://veganipsum.me">vegan ipsum</a> in your web page. Keep in mind that this should not be used in cases where the meaning of the text is important, for example the call to action buttons in the hero or elements in the form.</dd>
