@@ -96,7 +96,7 @@ The design inspiration section below has a couple of visual examples of these co
 
 ## Design inspiration 
 
-Here are two wireframes that you can draw inspiration from when coming up with your own designs. 
+Here are two wireframes that you can draw inspiration from when coming up with your own designs. If you are looking for more insipration check out [One Page Love](https://onepagelove.com).
 
 ![Screenshot](./images/screenshot-01.png)
 
