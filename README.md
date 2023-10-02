@@ -18,7 +18,7 @@
 
 ## Description
 
-This assignment will assess both your ability to structure content with semantic `HTML` tags, format text, include images and links, and apply `CSS` to a page that brings your design to life. 
+This assignment will assess both your ability to structure content with semantic `HTML` tags, format text, include images and links, and apply `CSS` to a page that brings an amazing design to life. 
 
 Students will also be assessed on their ability to commit their code to GitHub and activate the GitHub pages service.
 
@@ -33,6 +33,18 @@ Create and host a web page that meets the following requirements:
 - Web page must be hosted using GitHub Pages service
 - Web page must be reachable by a browser on the public internet
 - You do not need to worry about mobile mode when applying `CSS` to your page 
+
+## Table of contents
+
+- [Content requirements](#content-requirements)
+- [Design inspiration](#design-inspiration)
+- [Acceptance criteria](#assignment-acceptance-criteria)
+- [Grading rubric](#grading-rubric)
+- [Late submissions](#late-submissions)
+- [Checklist](#checklist)
+- [Submitting your work](#submitting-your-work)
+- [Frequently Asked Questions (FAQ)](#frequently-asked-questions-faq)
+- [Helpful Links](#helpful-links)
 
 ## Content requirements
 
@@ -51,9 +63,9 @@ For the actual content for your web page, you can select anything you want, **in
 
 The web page that you are building must have the following **minimum requirements**. You may build out your web page with even more content than this if you would like, though no additional marks will be awarded.
 
-The only difference from Assignment 01 is the form is replaced with a Call to Action (CTA) section.
+The only difference from Assignment 01 is the form has been removed and replaced with a Call to Action (CTA) section.
 
-The design inspiration section below has a couple of virual examples of these content areas that you can use in your own designs.
+The design inspiration section below has a couple of visual examples of these content requirements that you can use as inspiration for your own designs.
 
 - Header Section
   - Logo
@@ -88,7 +100,7 @@ The design inspiration section below has a couple of virual examples of these co
 
 ![Screenshot](./images/screenshot-02.png)
 
-## Assignment acceptance criteria
+## Acceptance criteria
 
 - Publish your code on GitHub using the GitHub classrooms generated repository
 - Use the GitHub Pages service to host your web page
